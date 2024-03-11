@@ -3,10 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafacallega/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-callegari-804429274/)
 
-</body
 ![Callegari GitHub stats](https://github-readme-stats.vercel.app/api?username=CALLEGARii&show_icons=true&theme=dark&count_private=true&title_color=FF69B4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CALLEGARii&theme=dark&layout=compact&title_color=FF69B4&langs_count=10&card_width=445)
-<body
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CALLEGARii&theme=dark&layout=compact&title_color=FF69B4&langs_count=10&card_width=445)
+
 ## Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block">
