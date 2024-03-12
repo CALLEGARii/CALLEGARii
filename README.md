@@ -3,12 +3,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafacallega/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-callegari-804429274/)
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=CALLEGARii&show_icons=true&theme=dark&count_private=true&title_color=FF69B4"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALLEGARii&theme=dark&layout=compact&title_color=FF69B4&langs_count=10&card_width=445"></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/CALLEGARii">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leefell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=DC143C&icon_color=DC143C"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leefell&layout=compact&langs_count=7&theme=midnight-purple&title_color=DC143C&icon_color=DC143C"/>
+  </a>
+</div>
 
 ## Tecnologias que eu uso no meu dia a dia:
 
