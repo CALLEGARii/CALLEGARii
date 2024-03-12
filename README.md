@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/CALLEGARii">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leefell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=DC143C&icon_color=DC143C"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leefell&layout=compact&langs_count=7&theme=midnight-purple&title_color=DC143C&icon_color=DC143C"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CALLEGARii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=DC143C&icon_color=DC143C"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALLEGARii&layout=compact&langs_count=7&theme=midnight-purple&title_color=DC143C&icon_color=DC143C"/>
   </a>
 </div>
 
