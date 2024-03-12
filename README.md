@@ -1,4 +1,5 @@
-[![Background Image](https://img.shields.io/badge/-Ol%C3%A1!%20Sou%20o%20Callegari%20%F0%9F%9A%80%F0%9F%8C%9F-00599C?style=for-the-badge&logo=github&logoColor=white)](https://img.freepik.com/fotos-gratis/incendio-na-ia-generativa-das-chamas-da-floresta_169016-29514.jpg?w=1380&t=st=1710202772~exp=1710203372~hmac=35402c51156b7ebd18eb2e1aa190f7dd5297a24c938eac7c7605de982751317c)
+<h1 style="font-size: 32px; color: #FF69B4; text-shadow: 2px 2px 4px #000000;">Olá! Sou o <span style="font-weight: bold; font-style: italic;">Callegari</span> 🚀✨</h1>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafacallega/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-callegari-804429274/)
