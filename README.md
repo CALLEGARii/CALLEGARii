@@ -1,5 +1,5 @@
-<h1 style="font-size: 32px; color: #FF69B4; text-shadow: 2px 2px 4px #000000;">Olá! Sou o <span style="font-weight: bold; font-style: italic;">Callegari</span> 🚀</h1>
-
+![Header](./header.png)
+<tr
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafacallega/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-callegari-804429274/)
