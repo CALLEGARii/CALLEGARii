@@ -11,7 +11,7 @@
   </a>
 </div>
 
-## Tecnologias que eu uso no meu dia a dia:
+## Linguagens que eu uso no meu dia a dia:
 
 <div style="display: inline_block">
   <img align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
