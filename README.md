@@ -1,8 +1,4 @@
-![Header](./headerv2.png)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafacallega/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-callegari-804429274/)
-[![Email](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](r.callegari@aluno.ifsp.edu.br)
 
 <div align="center">
   <a href="https://github.com/CALLEGARii">
