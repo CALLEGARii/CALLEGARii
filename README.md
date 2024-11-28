@@ -1,4 +1,10 @@
-<div align="center"> <a href="https://github.com/CALLEGARii"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CALLEGARii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALLEGARii&layout=compact&theme=midnight-purple"/> </a> </div>
+<div align="center">
+  <a href="https://github.com/CALLEGARii">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CALLEGARii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=4169e1&text_color=4169e1"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALLEGARii&layout=compact&theme=midnight-purple&title_color=4169e1&text_color=4169e1"/>
+  </a>
+</div>
+
 Sobre mim:
 ✨ Apaixonado por tecnologia e programação, estou sempre em busca de aprender, evoluir e enfrentar novos desafios. Meu foco é criar soluções inteligentes e funcionais, aplicando boas práticas de desenvolvimento e transformando ideias em realidade através do poder do código.
 
