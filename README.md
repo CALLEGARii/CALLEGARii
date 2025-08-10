@@ -5,12 +5,32 @@
   </a>
 </div>
 
-Sobre mim:
-✨ Apaixonado por tecnologia e programação, estou sempre em busca de aprender, evoluir e enfrentar novos desafios. Meu foco é criar soluções inteligentes e funcionais, aplicando boas práticas de desenvolvimento e transformando ideias em realidade através do poder do código.
+---
+✨ Apaixonado por tecnologia e programação, sempre buscando aprender, evoluir e enfrentar novos desafios.  
+🚀 Explorando linguagens e ferramentas para criar soluções inteligentes e funcionais.  
+🤝 Colaborando com a comunidade e aplicando boas práticas de desenvolvimento. 
 
-🚀 Acredito no aprendizado contínuo e estou constantemente explorando novas linguagens e ferramentas para aprimorar minhas habilidades e entregar resultados de impacto.
+### 🖥️ Linguagens
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
 
-🤝 Além de programar, gosto de colaborar com a comunidade de desenvolvedores, compartilhando conhecimento e trocando experiências. Criatividade e inovação são valores que guiam meu trabalho, e estou sempre comprometido em dar o meu melhor em cada projeto que faço parte.
+---
 
-Linguagens do dia a dia:
-<div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> </div>
+### 🗄️ Ferramentas de Banco de Dados
+<div align="center">
+  <img src="https://img.shields.io/badge/Adminer-345678?style=for-the-badge&logo=adminer&logoColor=white">
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
+</div>
+
+---
+
+### 🤖 Ferramentas de IA
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
+</div>
