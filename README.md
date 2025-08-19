@@ -6,9 +6,13 @@
 </div>
 
 ---
-✨ Apaixonado por tecnologia e programação, sempre buscando aprender, evoluir e enfrentar novos desafios.  
-🚀 Explorando linguagens e ferramentas para criar soluções inteligentes e funcionais.  
-🤝 Colaborando com a comunidade e aplicando boas práticas de desenvolvimento. 
+🎯 Passionate about technology and innovation, I am constantly seeking to learn new tools and programming languages to develop effective and creative solutions.
+
+🚀 Exploring programming languages and tools to create smart and functional solutions.
+I am currently pursuing a Bachelor's degree in Information Systems at IFSP.
+The languages I use include Java, PHP, and Flutter.
+Database tools: PgAdmin, Adminer, and phpMyAdmin.
+AI tool: Google Colab.
 
 ### 🖥️ Linguagens
 <div align="center">
